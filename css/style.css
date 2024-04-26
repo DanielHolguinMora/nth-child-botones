@@ -1,0 +1,20 @@
+
+h1{
+    color: rgb(1, 78, 5);
+}
+
+button:nth-of-type(odd) {
+    background: blue;
+    font-weight: bold;
+    width: 100px;
+    padding: 5px 0;
+    border-radius: 50%;
+}
+   
+button:nth-of-type(even) {
+    background: red;
+    font-weight: bold;
+    width: 100px;
+    padding: 5px 0;
+    border-radius: 50%;
+}
